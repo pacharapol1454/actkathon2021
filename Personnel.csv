@@ -1,16 +1,16 @@
-﻿Name,Position,Agency,Year
-Mr.Arkhom Termpittayapaisith,Minister,MOF,2564
-Mr.Santi Promphat,Deputry Minister,MOF,2564
-Mr. Chuenchob Kongudom,Vice Minister,MOF,2564
-Mr.Nutthachai Srerungsukpinitt,Advisor to Deputy Minister,MOF,2564
-Mr. Araks Bodhidatta,Secretary to the Minister,MOF,2564
-Mr. Varuj Siriwat,Assistant Secretary to the Minister,MOF,2564
-นางสาวกุลยา ตันติเตมิท,Director,FOP,2564
-นายวุฒิพงศ์ จิตตั้งสกุล,Economic Consultant,FOP,2564
-นางสาวเกตสุดา สุประดิษฐ์,Economic Consultant,FOP,2564
-นางสาวสภัทร์พร ธรรมาภรณ์พิลาศ,Deputry Director,FOP,2564
-นายอรรถพล อรรถวรเดช,Deputry Director,FOP,2564
-นางสาวสุภัค ไชยวรรณ,Deputry Director,FOP,2564
-นางสาวสุมาลี สถิตชัยเจริญ,Overseas Economic and Fiscal Advisory Group,FOP,2564
-นายณัฏฐวุฒิ ธรรมศิริ,Overseas Economic and Fiscal Advisory Group,FOP,2564
-นายกิตติพงศ์ อภิบาลศรี,Overseas Economic and Fiscal Advisory Group,FOP,2564
+﻿id,Name,Position,Agency,Year
+1,Mr.Arkhom Termpittayapaisith,Minister,MOF,2564
+2,Mr.Santi Promphat,Deputry Minister,MOF,2564
+3,Mr. Chuenchob Kongudom,Vice Minister,MOF,2564
+4,Mr.Nutthachai Srerungsukpinitt,Advisor to Deputy Minister,MOF,2564
+5,Mr. Araks Bodhidatta,Secretary to the Minister,MOF,2564
+6,Mr. Varuj Siriwat,Assistant Secretary to the Minister,MOF,2564
+7,นางสาวกุลยา ตันติเตมิท,Director,FOP,2564
+8,นายวุฒิพงศ์ จิตตั้งสกุล,Economic Consultant,FOP,2564
+9,นางสาวเกตสุดา สุประดิษฐ์,Economic Consultant,FOP,2564
+10,นางสาวสภัทร์พร ธรรมาภรณ์พิลาศ,Deputry Director,FOP,2564
+11,นายอรรถพล อรรถวรเดช,Deputry Director,FOP,2564
+12,นางสาวสุภัค ไชยวรรณ,Deputry Director,FOP,2564
+13,นางสาวสุมาลี สถิตชัยเจริญ,Overseas Economic and Fiscal Advisory Group,FOP,2564
+14,นายณัฏฐวุฒิ ธรรมศิริ,Overseas Economic and Fiscal Advisory Group,FOP,2564
+15,นายกิตติพงศ์ อภิบาลศรี,Overseas Economic and Fiscal Advisory Group,FOP,2564
